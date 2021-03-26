@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/collision-app-demo/static/js/main.e20f3a1b.chunk.js",
+    "main.js.map": "/collision-app-demo/static/js/main.e20f3a1b.chunk.js.map",
+    "runtime-main.js": "/collision-app-demo/static/js/runtime-main.05760150.js",
+    "runtime-main.js.map": "/collision-app-demo/static/js/runtime-main.05760150.js.map",
+    "static/css/2.cb018f5d.chunk.css": "/collision-app-demo/static/css/2.cb018f5d.chunk.css",
+    "static/js/2.40e09a7d.chunk.js": "/collision-app-demo/static/js/2.40e09a7d.chunk.js",
+    "static/js/2.40e09a7d.chunk.js.map": "/collision-app-demo/static/js/2.40e09a7d.chunk.js.map",
+    "static/js/3.f65fe53a.chunk.js": "/collision-app-demo/static/js/3.f65fe53a.chunk.js",
+    "static/js/3.f65fe53a.chunk.js.map": "/collision-app-demo/static/js/3.f65fe53a.chunk.js.map",
+    "index.html": "/collision-app-demo/index.html",
+    "static/css/2.cb018f5d.chunk.css.map": "/collision-app-demo/static/css/2.cb018f5d.chunk.css.map",
+    "static/js/2.40e09a7d.chunk.js.LICENSE.txt": "/collision-app-demo/static/js/2.40e09a7d.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/collision-app-demo/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05760150.js",
+    "static/css/2.cb018f5d.chunk.css",
+    "static/js/2.40e09a7d.chunk.js",
+    "static/js/main.e20f3a1b.chunk.js"
+  ]
+}
